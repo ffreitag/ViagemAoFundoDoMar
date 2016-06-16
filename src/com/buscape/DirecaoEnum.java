@@ -1,5 +1,10 @@
 package com.buscape;
 
+/**
+ * Enum responsavel por guardar a posicao do submarino (Norte, Sul, Leste, Oeste
+ * @author Fernando Freitag
+ * @Since  16/06/2026
+ */
 public enum DirecaoEnum {
 
     NORTE('N', "Norte"), SUL('S', "Sul"), LESTE('L', "Leste"), OESTE('O', "Oeste");
